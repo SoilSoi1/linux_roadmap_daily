@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~/research/Code/selflearning/
+cd ~/research/Code/self_learning/
