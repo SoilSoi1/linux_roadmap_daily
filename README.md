@@ -18,19 +18,11 @@
 | Name | Difficulty | Description |
 |------|------------|-------------|
 | `hello.sh` | 🟢 Beginner | 输出 Hello World |
-| `goto_dl.sh` | 🟢 Beginner | 快速跳转到 deep_learning 文件夹 |
-| `pack_folder.sh` | 🟡 Intermediate | 将目录自动压缩为时间戳命名文件 |
+| `goto_code.sh` | 🟢 Beginner | 快速跳转到 deep_learning 文件夹(对于我的磁盘来说) |
+| `pressToTAR.sh` | 🟢 Beginner | 将目标文件压缩为tar.gz格式，并自动加上压缩时间戳 |
+|||
 | ... | ... | ... |
 
----
-
-## 📈 Progress
-
-```bash
-2025-04-24: Created repo & first script
-2025-04-24: Learned chmod & added folder jump script
-2025-04-25: Implemented auto-packager
-```
 ---
 
 欢迎来到这个页面，也许这辈子也不会有人来哈哈，不过我做好自己的Linux学习就好啦。  
